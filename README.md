@@ -10,16 +10,11 @@
 
 ---
 
-### 📊 Estatísticas
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RichterEdu&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichterEdu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RichterEdu&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true&hide_title=false" width="100%" alt="activity graph" />
-</div>
 
 ---
 
@@ -57,10 +52,3 @@
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/RichterEdu/RichterEdu/snake-output/snake.svg" alt="Snake animation" />
-</div>
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=cobalt" />
-</div>
