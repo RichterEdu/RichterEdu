@@ -5,7 +5,7 @@
 <h2 align="center">Olá! Eu sou o Edu 👋</h2>
 
 <p align="center">
-  Desenvolvedor apaixonado por criar coisas — da web com <b>React</b> e <b>TypeScript</b> até jogos com <b>C#</b> e apps com <b>Kotlin</b>.
+  Dev que cria coisas — da web com <b>React</b> e <b>TypeScript</b> até jogos com <b>C#</b> e apps com <b>Kotlin</b>.
 </p>
 
 ---
