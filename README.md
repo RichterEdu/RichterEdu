@@ -23,7 +23,6 @@
 
 ---
 
-### 🛠️ Tecnologias
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
@@ -39,7 +38,6 @@
 
 ---
 
-### 🎧 Ouvindo recentemente
 
 <div align="center">
   <a href="https://open.spotify.com/user/6tg7fkyond7orhfm1cpv585qv">
@@ -49,7 +47,6 @@
 
 ---
 
-### 🌐 Me encontre
 
 <div align="center">
   <a href="https://x.com/EduRichterr" target="_blank">
