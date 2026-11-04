@@ -36,7 +36,10 @@
 <h3 align="center">📂 Projetos</h3>
 
 <p align="center">
-<a href="https://github.com/GustavoSouza-Code/Bruxel">Bruxel</a> - projeto em equipe da faculdade
+<a href="https://github.com/GustavoSouza-Code/Bruxel">Bruxel</a> - projeto em equipe da faculdade<br>
+  <a href="https://github.com/RichterEdu/placar-do-bolso">placar-do-bolso</a> - Lula x Bolsonaro: o placar do seu bolso, com dados oficiais e fonte em cada número<br>
+  <a href="https://github.com/RichterEdu/Screenshare">Screenshare</a> - transforma o celular Android numa segunda tela real do PC Windows<br>
+  <a href="https://github.com/RichterEdu/dengue">dengue</a> - jogo em C#
 </p>
 
 ---
