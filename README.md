@@ -33,6 +33,14 @@
 
 ---
 
+<h3 align="center">📂 Projetos</h3>
+
+<p align="center">
+<a href="https://github.com/GustavoSouza-Code/Bruxel">Bruxel</a> - projeto em equipe da faculdade
+</p>
+
+---
+
 
 <div align="center">
   <a href="https://open.spotify.com/user/6tg7fkyond7orhfm1cpv585qv">
