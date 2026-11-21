@@ -2,10 +2,10 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Edu%20Richter&fontSize=60&fontColor=FFFFFF&fontAlign=50&fontAlignY=38&desc=Dev%20%E2%80%A2%20JavaScript%20%E2%80%A2%20TypeScript%20%E2%80%A2%20C%23%20%E2%80%A2%20Kotlin&descSize=18&descAlign=50&descAlignY=60&theme=cobalt" />
 </div>
 
-<h2 align="center">Olá! Eu sou o Edu 👋</h2>
+<h2 align="center">Hi! I'm Edu 👋</h2>
 
 <p align="center">
-  Dev que cria coisas — da web com <b>React</b> e <b>TypeScript</b> até jogos com <b>C#</b> e apps com <b>Kotlin</b>.
+  A dev who builds things — from the web with <b>React</b> and <b>TypeScript</b> to games with <b>C#</b> and apps with <b>Kotlin</b>.
 </p>
 
 ---
@@ -33,13 +33,13 @@
 
 ---
 
-<h3 align="center">📂 Projetos</h3>
+<h3 align="center">📂 Projects</h3>
 
 <p align="center">
-<a href="https://github.com/GustavoSouza-Code/Bruxel">Bruxel</a> - projeto em equipe da faculdade<br>
-  <a href="https://github.com/RichterEdu/placar-do-bolso">placar-do-bolso</a> - Lula x Bolsonaro: o placar do seu bolso, com dados oficiais e fonte em cada número<br>
-  <a href="https://github.com/RichterEdu/Screenshare">Screenshare</a> - transforma o celular Android numa segunda tela real do PC Windows<br>
-  <a href="https://github.com/RichterEdu/dengue">dengue</a> - jogo em C#
+<a href="https://github.com/GustavoSouza-Code/Bruxel">Bruxel</a> - college team project<br>
+  <a href="https://github.com/RichterEdu/placar-do-bolso">placar-do-bolso</a> - Lula vs. Bolsonaro: the scoreboard of your wallet, with official data and a source for every number<br>
+  <a href="https://github.com/RichterEdu/Screenshare">Screenshare</a> - turns your Android phone into a real second screen for your Windows PC<br>
+  <a href="https://github.com/RichterEdu/dengue">dengue</a> - a game made in C#
 </p>
 
 ---
@@ -62,4 +62,3 @@
 </div>
 
 ---
-
