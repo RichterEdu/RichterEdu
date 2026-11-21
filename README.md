@@ -37,6 +37,7 @@
 
 <p align="center">
 <a href="https://github.com/GustavoSouza-Code/Bruxel">Bruxel</a> - college team project<br>
+  <a href="https://github.com/matbdev/nasa-space-apps-airmood">AirMood</a> - team member · voice-powered weather & air quality assistant built for the 2025 NASA Space Apps Challenge (Global Nominee)<br>
   <a href="https://github.com/RichterEdu/placar-do-bolso">placar-do-bolso</a> - Lula vs. Bolsonaro: the scoreboard of your wallet, with official data and a source for every number<br>
   <a href="https://github.com/RichterEdu/Screenshare">Screenshare</a> - turns your Android phone into a real second screen for your Windows PC<br>
   <a href="https://github.com/RichterEdu/dengue">dengue</a> - a game made in C#
